@@ -1,7 +1,10 @@
 ## Hey 👋, This is Ryezhy
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryezhy)](https://github.com/anuraghazra/github-readme-stats)
+<a/>
+<!-- Icons -->
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<!-- Icons -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryezhy)](https://github.com/Ryezhy/github-readme-stats)
