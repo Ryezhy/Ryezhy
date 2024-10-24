@@ -2,7 +2,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:2650610676@QQ.com) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://github.com/Ryezhy/)
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=Ryezhy /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Ryezhy alt=Ryezhy /> </p>
 
 <a href="https://github.com/Ryezhy">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
