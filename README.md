@@ -7,7 +7,7 @@
 <!-- Icons -->
 <a/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
-<a/>
+
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryezhy)](https://github.com/Ryezhy/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
