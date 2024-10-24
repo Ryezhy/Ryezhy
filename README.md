@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryezhy)](https://github.com/Ryezhy/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryezhy)(https://github.com/Ryezhy/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
