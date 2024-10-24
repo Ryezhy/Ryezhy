@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryezhy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![WakaTime](https://wakatime.com/badge/user/<your_user_id>.svg)](https://wakatime.com/@<waka_0f54eaca-04e5-4b11-814a-3d8f7728a4a2>)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
 <!--
 - 🔭 I’m currently working on ...
