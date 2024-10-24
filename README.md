@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryezhy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-## Hey 👋, This is Ryezhy
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
 <!--
 - 🔭 I’m currently working on ...
