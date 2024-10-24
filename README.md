@@ -4,7 +4,7 @@
 <br>
 ## Hey 👋, This is Ryezhy
 
-[![WakaTime](https://wakatime.com/badge/user/waka_0f54eaca-04e5-4b11-814a-3d8f7728a4a2.svg)](https://wakatime.com/@waka_0f54eaca-04e5-4b11-814a-3d8f7728a4a2)
+[![WakaTime](https://wakatime.com/badge/user/waka_0f54eaca-04e5-4b11-814a-3d8f7728a4a2.svg)](https://wakatime.com/@WAKATIME_API_KEY)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
 <!--
