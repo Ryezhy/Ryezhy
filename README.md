@@ -5,7 +5,7 @@
 ### This is the programming language I have used
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,c,cpp,py,java,kotlin)](https://skillicons.dev)
 <br>
-### This is the compiler I use
+### This is the ide I use
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,pycharm,idea,webstorm)](https://skillicons.dev)
 <br>
 ### Here's the framework I've used
