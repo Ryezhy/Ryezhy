@@ -3,12 +3,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryezhy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
+### This is the programming language I have used
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,c,cpp,py,java,kotlin)](https://skillicons.dev)
 <br>
 <br>
+### This is the compiler I use
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,pycharm,idea,webstorm)](https://skillicons.dev)
 <br>
 <br>
+### Here's the framework I've used
 [![My Skills](https://skillicons.dev/icons?i=materialui,dotnet,fastapi,vue,pytorch,mysql,spring)](https://skillicons.dev)
 <br>
 <br>
