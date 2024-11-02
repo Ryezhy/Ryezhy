@@ -6,10 +6,12 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,c,cpp,py)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,idea,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,pycharm,idea,webstorm)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=materialui,dotnet,pycharm,fastapi,vue,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui,dotnet,fastapi,vue,pytorch)](https://skillicons.dev)
+<br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
 <!--
 - 🔭 I’m currently working on ...
