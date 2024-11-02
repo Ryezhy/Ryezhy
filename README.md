@@ -3,13 +3,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryezhy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,c,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,c,cpp,py,java,kotlin)](https://skillicons.dev)
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,pycharm,idea,webstorm)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=materialui,dotnet,fastapi,vue,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui,dotnet,fastapi,vue,pytorch,mysql,spring)](https://skillicons.dev)
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
