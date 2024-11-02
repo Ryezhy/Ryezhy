@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryezhy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,androidstudio,cs,c,cpp,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,androidstudio,materialui,cs,c,cpp,dotnet,pycharm	,py,fastapi)](https://skillicons.dev)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryezhy&layout=compact)
 <!--
