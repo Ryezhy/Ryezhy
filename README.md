@@ -5,8 +5,6 @@
 ### This is the programming language I have used
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,c,cpp,py,java,kotlin)](https://skillicons.dev)
 <br>
-- name: waka-box
-  uses: matchai/waka-box@v5.0.0
 ### This is the ide I use
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,pycharm,idea,webstorm)](https://skillicons.dev)
 <br>
